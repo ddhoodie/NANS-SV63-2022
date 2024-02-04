@@ -1,0 +1,30 @@
+{
+      "name": "Grand Theft Auto VI",
+      "players_on_launch": 0,
+      "players_after_1year": 0,
+      "year_of_release": 2025,
+      "company_budget": 2000000000,
+      "trailer_views": 172000000,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true
+      },
+      "genre": {
+        "action": true,
+        "adventure": true,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true,
+        "story_mode": true,
+        "strategy": false
+      }
+    }

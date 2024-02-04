@@ -1,0 +1,1743 @@
+{
+  "games": [
+    {
+      "name": "The Elder Scrolls V: Skyrim",
+      "daily_players": 25000,
+      "rating": 0.95,
+      "company_budget": 80000000,
+      "trailer_views": 15000000,
+      "game_of_the_year": true,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": false,
+        "adventure": true,
+        "rpg": true,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": true,
+        "open_world": true
+      }
+    },
+    {
+      "name": "The Witcher 3: Wild Hunt",
+      "daily_players": 24000,
+      "rating": 0.95,
+      "company_budget": 81000000,
+      "trailer_views": 16000000,
+      "google_trend": 0.2,
+      "years_since_release": 9,
+      "game_of_the_year": true,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": false,
+        "adventure": true,
+        "rpg": true,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "daily_players": 55000,
+      "rating": 0.96,
+      "company_budget": 450000000,
+      "trailer_views": 24000000,
+      "google_trend": 0.62,
+      "years_since_release": 5,
+      "game_of_the_year": true,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": true,
+        "rpg": true,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "Grand Theft Auto V",
+      "daily_players": 250000,
+      "rating": 0.95,
+      "company_budget": 265000000,
+      "trailer_views": 100000000,
+      "google_trend": 0.80,
+      "years_since_release": 10,
+      "game_of_the_year": true,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": true,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "Dark Souls III",
+      "daily_players": 5500,
+      "rating": 0.94,
+      "company_budget": 40000000,
+      "trailer_views": 6000000,
+      "google_trend": 0.38,
+      "years_since_release": 8,
+      "game_of_the_year": false,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": true,
+        "rpg": true,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": true,
+        "open_world": true
+      }
+    },
+    {
+      "name": "Mass Effect 2",
+      "daily_players": 200,
+      "rating": 0.95,
+      "company_budget": 40000000,
+      "trailer_views": 1200000,
+      "google_trend": 0.08,
+      "years_since_release": 14,
+      "game_of_the_year": false,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": false,
+        "rpg": true,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": true,
+        "mmo": false,
+        "open_world": false
+      }
+    },
+    {
+      "name": "Portal 2",
+      "daily_players": 8000,
+      "rating": 0.97,
+      "company_budget": null,
+      "trailer_views": 5000000,
+      "google_trend": 0.09,
+      "years_since_release": 13,
+      "game_of_the_year": false,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": true
+      },
+      "genre": {
+        "action": false,
+        "adventure": false,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": true,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": false
+
+      }
+    },
+    {
+      "name": "Bioshock Infinite",
+      "daily_players": 500,
+      "rating": 0.95,
+      "company_budget": 200000000,
+      "trailer_views": 2400000,
+      "google_trend": 0.02,
+      "years_since_release": 11,
+      "game_of_the_year": false,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": false,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": true,
+        "mmo": false,
+        "open_world": false
+      }
+    },
+    {
+      "name": "Overwatch",
+      "daily_players": 1800000,
+      "rating": 0.3,
+      "company_budget": null,
+      "trailer_views": 20000000,
+      "google_trend": 0,
+      "years_since_release": 8,
+      "game_of_the_year": true,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": false,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": true,
+        "mmo": false,
+        "open_world": false
+      }
+    },
+    {
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "daily_players": 5000,
+      "rating": 0.96,
+      "company_budget": 150000000,
+      "trailer_views": 29000000,
+      "google_trend": 0.28,
+      "years_since_release": 7,
+      "game_of_the_year": true,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": false,
+        "PLAYSTATION": false,
+        "XBOX": false,
+        "PHONE": false
+      },
+      "genre": {
+        "action": false,
+        "adventure": true,
+        "rpg": true,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "God of War",
+      "daily_players": 15000,
+      "rating": 0.96,
+      "company_budget": 200000000,
+      "trailer_views": 10000000,
+      "google_trend": 0.1,
+      "years_since_release": 6,
+      "game_of_the_year": true,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": true,
+        "rpg": true,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "Horizon Zero Dawn",
+      "daily_players": 8000,
+      "rating": 0.95,
+      "company_budget": 45000000,
+      "trailer_views": 10000000,
+      "google_trend": 0.15,
+      "years_since_release": 7,
+      "game_of_the_year": false,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": false,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": false,
+        "rpg": true,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": false
+      }
+    },
+    {
+      "name": "Destiny 2",
+      "daily_players": 850000,
+      "rating": 0.89,
+      "company_budget": 140000000,
+      "trailer_views": 14000000,
+      "google_trend": 0.33,
+      "years_since_release": 7,
+      "game_of_the_year": false,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": false,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": true,
+        "mmo": true,
+        "open_world": false
+      }
+    },
+    {
+      "name": "Fallout 4",
+      "daily_players": 25000,
+      "rating": 0.61,
+      "company_budget": 150000000,
+      "trailer_views": 9100000,
+      "google_trend": 0.3,
+      "years_since_release": 8,
+      "game_of_the_year": true,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": false,
+        "rpg": true,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "The Last of Us",
+      "daily_players": 5000,
+      "rating": 0.96,
+      "company_budget": 50000000,
+      "trailer_views": 7800000,
+      "google_trend": 0.25,
+      "years_since_release": 11,
+      "game_of_the_year": true,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": false,
+        "PLAYSTATION": false,
+        "XBOX": false,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": true,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": true,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "The Last of Us 2",
+      "daily_players": 2000,
+      "rating": 0.64,
+      "company_budget": 170000000,
+      "trailer_views": 14000000,
+      "google_trend": 0.15,
+      "years_since_release": 4,
+      "game_of_the_year": true,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": false,
+        "PLAYSTATION": false,
+        "XBOX": false,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": true,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": true,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "Assassin's Creed Odyssey",
+      "daily_players": 15000,
+      "rating": 0.92,
+      "company_budget": 500000000,
+      "trailer_views": 6700000,
+      "google_trend": 0.2,
+      "years_since_release": 5,
+      "game_of_the_year": false,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": false,
+        "PLAYSTATION": false,
+        "XBOX": false,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": true,
+        "rpg": true,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "Minecraft",
+      "daily_players": 3000000,
+      "rating": 0.96,
+      "company_budget": 100000,
+      "trailer_views": 167000000,
+      "google_trend": 0.85,
+      "years_since_release": 12,
+      "game_of_the_year": true,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": true
+      },
+      "genre": {
+        "action": false,
+        "adventure": true,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": true,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "Fortnite",
+      "daily_players": 4700000,
+      "rating": 0.73,
+      "company_budget": null,
+      "trailer_views": 4700000,
+      "google_trend": 0.2,
+      "years_since_release": 8,
+      "game_of_the_year": false,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": false,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": false
+      }
+    },
+    {
+      "name": "PUBG",
+      "daily_players": 730000,
+      "rating": 0.88,
+      "company_budget": 3000000,
+      "trailer_views": 19000000,
+      "google_trend": 0.55,
+      "years_since_release": 7,
+      "game_of_the_year": false,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": true
+      },
+      "genre": {
+        "action": true,
+        "adventure": false,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": true,
+        "mmo": false,
+        "open_world": false
+      }
+    },
+    {
+      "name": "NieR: Automata",
+      "daily_players": 2000,
+      "rating": 0.95,
+      "company_budget": null,
+      "trailer_views": 1800000,
+      "google_trend": 0.07,
+      "years_since_release": 6,
+      "game_of_the_year": false,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": false,
+        "PLAYSTATION": false,
+        "XBOX": false,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": true,
+        "rpg": true,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "Monster Hunter: World",
+      "daily_players": 170000,
+      "rating": 0.92,
+      "company_budget": 25000000,
+      "trailer_views": 10000000,
+      "google_trend": 0.37,
+      "years_since_release": 6,
+      "game_of_the_year": false,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": true,
+        "rpg": true,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "Celeste",
+      "daily_players": 2500,
+      "rating": 0.93,
+      "company_budget": 100000,
+      "trailer_views": 1400000,
+      "google_trend": 0.07,
+      "years_since_release": 5,
+      "game_of_the_year": false,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": false,
+        "PLAYSTATION": true,
+        "XBOX": false,
+        "PHONE": false
+      },
+      "genre": {
+        "action": false,
+        "adventure": false,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": true,
+        "horror": false,
+        "survival": false,
+        "indie": true,
+        "fps": false,
+        "mmo": false,
+        "open_world": false
+      }
+    },
+    {
+      "name": "Stardew Valley",
+      "daily_players": 60000,
+      "rating": 0.94,
+      "company_budget": 800000,
+      "trailer_views": 4000000,
+      "google_trend": 0.32,
+      "years_since_release": 6,
+      "game_of_the_year": false,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": false,
+        "PLAYSTATION": false,
+        "XBOX": false,
+        "PHONE": false
+      },
+      "genre": {
+        "action": false,
+        "adventure": false,
+        "rpg": true,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": true,
+        "fps": false,
+        "mmo": false,
+        "open_world": false
+      }
+    },
+    {
+      "name": "Hades",
+      "daily_players": 9000,
+      "rating": 0.92,
+      "company_budget": 50000,
+      "trailer_views": 1300000,
+      "google_trend": 0.14,
+      "years_since_release": 5,
+      "game_of_the_year": true,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": false,
+        "XBOX": false,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": false,
+        "rpg": true,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": true,
+        "fps": false,
+        "mmo": false,
+        "open_world": false
+      }
+    },
+    {
+      "name": "Hollow Knight",
+      "daily_players": 10000,
+      "rating": 0.97,
+      "company_budget": 27000,
+      "trailer_views": 4300000,
+      "google_trend": 0.24,
+      "years_since_release": 6,
+      "game_of_the_year": false,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": false,
+        "adventure": true,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": true,
+        "fps": false,
+        "mmo": false,
+        "open_world": false
+      }
+    },
+    {
+      "name": "Ori and the Blind Forest",
+      "daily_players": 1000,
+      "rating": 0.95,
+      "company_budget": 6000000,
+      "trailer_views": 4800000,
+      "google_trend": 0.01,
+      "years_since_release": 9,
+      "game_of_the_year": false,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": false,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": true,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "Divinity: Original Sin 2",
+      "daily_players": 13000,
+      "rating": 0.91,
+      "company_budget": 2000000,
+      "trailer_views": 1400000,
+      "google_trend": 0.1,
+      "years_since_release": 6,
+      "game_of_the_year": false,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": false,
+        "adventure": true,
+        "rpg": true,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": false
+      }
+    },
+    {
+      "name": "Sekiro: Shadows Die Twice",
+      "daily_players": 20000,
+      "rating": 0.93,
+      "company_budget": null,
+      "trailer_views": 3600000,
+      "google_trend": 0.18,
+      "years_since_release": 4,
+      "game_of_the_year": true,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": true,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "Disco Elysium",
+      "daily_players": 2000,
+      "rating": 0.92,
+      "company_budget": null,
+      "trailer_views": 0,
+      "google_trend": 0.05,
+      "years_since_release": 4,
+      "game_of_the_year": false,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": false,
+        "adventure": false,
+        "rpg": true,
+        "simulation": false,
+
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": false
+      }
+    },
+    {
+      "name": "Control",
+      "daily_players": 1000,
+      "rating": 0.86,
+      "company_budget": 30000000,
+      "trailer_views": 1000000,
+      "google_trend": 0.07,
+      "years_since_release": 4,
+      "game_of_the_year": false,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": true,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": false
+      }
+    },
+    {
+      "name": "Ghost of Tsushima",
+      "daily_players": 7000,
+      "rating": 0.96,
+      "company_budget": 60000000,
+      "trailer_views": 3900000,
+      "google_trend": 0.19,
+      "years_since_release": 3,
+      "game_of_the_year": true,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": false,
+        "PLAYSTATION": true,
+        "XBOX": false,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": true,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "DOOM",
+      "daily_players": 1200,
+      "rating": 0.96,
+      "company_budget": 400000,
+      "trailer_views": 5300000,
+      "google_trend": 0.01,
+      "years_since_release": 18,
+      "game_of_the_year": false,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": false,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": true,
+        "mmo": false,
+        "open_world": false
+      }
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "daily_players": 60000,
+      "rating": 0.74,
+      "company_budget": 125000000,
+      "trailer_views": 28000000,
+      "google_trend": 0.5,
+      "years_since_release": 3,
+      "game_of_the_year": false,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": false,
+        "rpg": true,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "The Outer Worlds",
+      "daily_players": 450,
+      "rating": 0.93,
+      "company_budget": null,
+      "trailer_views": 2000000,
+      "google_trend": 0.02,
+      "years_since_release": 4,
+      "game_of_the_year": false,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": true,
+        "rpg": true,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "Apex Legends",
+      "daily_players": 340000,
+      "rating": 0.86,
+      "company_budget": 105000000,
+      "trailer_views": 8200000,
+      "google_trend": 0.34,
+      "years_since_release": 5,
+      "game_of_the_year": false,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": true
+      },
+      "genre": {
+        "action": true,
+        "adventure": false,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": true,
+        "mmo": false,
+        "open_world": false
+      }
+    },
+    {
+      "name": "Cuphead",
+      "daily_players": 2000,
+      "rating": 0.97,
+      "company_budget": 50000,
+      "trailer_views": 2000000,
+      "google_trend": 0.14,
+      "years_since_release": 6,
+      "game_of_the_year": false,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": false,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": true,
+        "fps": true,
+        "mmo": false,
+        "open_world": false
+      }
+    },
+    {
+      "name": "A Plague Tale: Innocence",
+      "daily_players": 400,
+      "rating": 0.97,
+      "company_budget": 10000000,
+      "trailer_views": 1400000,
+      "google_trend": 0.03,
+      "years_since_release": 4,
+      "game_of_the_year": false,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": true,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": true,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "Firewatch",
+      "daily_players": 3000,
+      "rating": 0.95,
+      "company_budget": 3000000,
+      "trailer_views": 1400000,
+      "google_trend": 0.09,
+      "years_since_release": 8,
+      "game_of_the_year": false,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": false,
+        "adventure": true,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": true,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "Yakuza: Like a Dragon",
+      "daily_players": 2500,
+      "rating": 0.91,
+      "company_budget": 20000000,
+      "trailer_views": 420000,
+      "google_trend": 0.11,
+      "years_since_release": 4,
+      "game_of_the_year": false,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": true,
+        "rpg": true,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": false
+      }
+    },
+    {
+      "name": "Marvel's Spider-Man",
+      "daily_players": 9000,
+      "rating": 0.94,
+      "company_budget": 315000000,
+      "trailer_views": 17000000,
+      "google_trend": 0.06,
+      "years_since_release": 5,
+
+      "game_of_the_year": false,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": false,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": true,
+        "rpg": false,
+        "simulation": false,
+
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "Valorant",
+      "daily_players": 800000,
+      "rating": 0.89,
+      "company_budget": null,
+      "trailer_views": 12000000,
+      "google_trend": 0.6,
+      "years_since_release": 4,
+      "game_of_the_year": false,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": false,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": true,
+        "mmo": false,
+        "open_world": false
+      }
+    },
+    {
+      "name": "Genshin Impact",
+      "daily_players": 3000000,
+      "rating": 0.92,
+      "company_budget": 100000,
+      "trailer_views": 1200000,
+      "google_trend": 0.54,
+      "years_since_release": 3,
+      "game_of_the_year": false,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": true
+      },
+      "genre": {
+        "action": false,
+        "adventure": true,
+        "rpg": true,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": true,
+        "open_world": true
+      }
+    },
+    {
+      "name": "Outer Wilds",
+      "daily_players": 1800,
+      "rating": 0.95,
+      "company_budget": 900000,
+      "trailer_views": 700000,
+      "google_trend": 0.05,
+      "years_since_release": 4,
+      "game_of_the_year": false,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": true,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": true,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "No Man's Sky",
+      "daily_players": 10500,
+      "rating": 0.92,
+      "company_budget": null,
+      "trailer_views": 8400000,
+      "google_trend": 0.16,
+      "years_since_release": 7,
+      "game_of_the_year": false,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": true,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": true,
+        "indie": false,
+        "fps": false,
+        "mmo": true,
+        "open_world": true
+      }
+    },
+    {
+      "name": "CSGO",
+      "daily_players": 1000000,
+      "rating": 0.93,
+      "company_budget": 2000000,
+      "trailer_views": 23000000,
+      "google_trend": 0.38,
+      "years_since_release": 11,
+      "game_of_the_year": false,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": false,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": true,
+        "mmo": false,
+        "open_world": false
+      }
+    },
+    {
+      "name": "Don't Starve Together",
+      "daily_players": 67000,
+      "rating": 0.95,
+      "company_budget": null,
+      "trailer_views": 5300000,
+      "google_trend": 0.01,
+      "years_since_release": 8,
+      "game_of_the_year": false,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": false,
+        "adventure": true,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": true,
+        "survival": true,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },{
+      "name": "Grand Theft Auto IV",
+      "daily_players": 5500,
+      "rating": 0.94,
+      "company_budget": 100000000,
+      "trailer_views": 9500000,
+      "google_trend": 0.25,
+      "years_since_release": 15,
+      "game_of_the_year": false,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": true,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "Grand Theft Auto San Andreas",
+      "daily_players": 2000,
+      "rating": 0.94,
+      "company_budget": 8000000,
+      "trailer_views": 17000000,
+      "google_trend": 0.65,
+      "years_since_release": 19,
+      "game_of_the_year": false,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": true,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "EA Sports FC 24",
+      "daily_players": 50000,
+      "rating": 0.81,
+      "company_budget": null,
+      "trailer_views": 6800000,
+      "google_trend": 0.54,
+      "years_since_release": 1,
+      "game_of_the_year": false,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": false,
+        "adventure": false,
+        "rpg": false,
+        "simulation": false,
+        "sports": true,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": false
+      }
+    },
+    {
+      "name": "NBA 2K24",
+      "daily_players": 10000,
+      "rating": 0.59,
+      "company_budget": null,
+      "trailer_views": 1200000,
+      "google_trend": 0.14,
+      "years_since_release": 1,
+      "game_of_the_year": false,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": false,
+        "adventure": false,
+        "rpg": false,
+        "simulation": false,
+        "sports": true,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": false
+      }
+    },
+    {
+      "name": "Euro Truck Simulator 2",
+      "daily_players": 48000,
+      "rating": 0.96,
+      "company_budget": null,
+      "trailer_views": 740000,
+      "google_trend": 0.22,
+      "years_since_release": 11,
+      "game_of_the_year": false,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": false,
+        "adventure": false,
+        "rpg": false,
+        "simulation": true,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": false
+      }
+    },
+    {
+      "name": "Mortal Kombat 12",
+      "daily_players": 2500,
+      "rating": 0.93,
+      "company_budget": 20000000,
+      "trailer_views": 8800000,
+      "google_trend": 0.17,
+      "years_since_release": 1,
+      "game_of_the_year": false,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": false,
+        "PLAYSTATION": false,
+        "XBOX": false,
+        "PHONE": false
+      },
+      "genre": {
+        "action": false,
+        "adventure": false,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": false,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": false
+      }
+    },
+    {
+      "name": "Forest",
+      "daily_players": 14000,
+      "rating": 0.96,
+      "company_budget": 125000,
+      "trailer_views": 1400000,
+      "google_trend": 0.05,
+      "years_since_release": 9,
+      "game_of_the_year": false,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": false,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": true,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": true,
+        "survival": true,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "Sons of the forest",
+      "daily_players": 8000,
+      "rating": 0.95,
+      "company_budget": 5000000,
+      "trailer_views": 7600000,
+      "google_trend": 0.13,
+      "years_since_release": 1,
+      "game_of_the_year": false,
+      "multiplayer": true,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": false,
+        "XBOX": false,
+        "PHONE": false
+      },
+      "genre": {
+        "action": true,
+        "adventure": true,
+        "rpg": false,
+        "simulation": false,
+
+        "sports": false,
+        "puzzle": false,
+        "horror": true,
+        "survival": true,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    },
+    {
+      "name": "Subnautica",
+      "daily_players": 3800,
+      "rating": 0.97,
+      "company_budget": 2000000,
+      "trailer_views": 7200000,
+      "google_trend": 0.15,
+      "years_since_release": 9,
+      "game_of_the_year": false,
+      "multiplayer": false,
+      "platform_availability": {
+        "PC": true,
+        "PLAYSTATION": true,
+        "XBOX": true,
+        "PHONE": false
+      },
+      "genre": {
+        "action": false,
+        "adventure": true,
+        "rpg": false,
+        "simulation": false,
+        "sports": false,
+        "puzzle": false,
+        "horror": false,
+        "survival": true,
+        "indie": false,
+        "fps": false,
+        "mmo": false,
+        "open_world": true
+      }
+    }
+
+  ]
+}
